@@ -11,7 +11,7 @@ Sprint: 7 (QA Cohorte 21)
 
 
 Pasos para ejecutar las librerías: 
-1. Clonar el repositorio ejecutando el comnando git clone https://cnt-4871c466-b559-482c-b607-ee5f3d554862.containerhub.tripleten-services.com
+1. Clonar el repositorio ejecutando el comnando git clone https://cnt-cd7f8273-7972-495e-a9bd-39b782432d8e.containerhub.tripleten-services.com
 2. Entrar a la carpeta del proyecto mediante el comando cd qa-project-Urban-Grocers-app-es
 3. Instalar las dependencias: pip install -r requirements.txt
 4. Ejecutar el proyecto mediante el comando: python (nombre_del_archivo).py
