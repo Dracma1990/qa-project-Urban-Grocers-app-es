@@ -1,7 +1,14 @@
 # Proyecto Urban Grocers QA Cohorte 21 Sprint 7 Andres Vargas
+
 Automatización de pruebas Urban Grocers
+
 Fuente de documentación utilizada: apiDoc
+
 Medios utilizados GitHub y Pycharm. Vínculo entre repositorios locales y remotos.
+
+Nombre: Andres Vargas
+Sprint: 7 (QA Cohorte 21)
+
 
 Pasos para ejecutar las librerías: 
 1. Clonar el repositorio ejecutando el comnando git clone https://cnt-48d37d6f-40f6-42d5-b458-8a262ddb9043.containerhub.tripleten-services.com
